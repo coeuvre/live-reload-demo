@@ -1,0 +1,8 @@
+[package]
+name = "bin"
+version = "0.1.0"
+authors = ["Coeuvre Wong <coeuvre@gmail.com>"]
+
+[dependencies]
+libloading = "0.5"
+failure = "0.1"
